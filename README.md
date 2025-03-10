@@ -6,7 +6,7 @@ A straightforward daily task management app designed to help you stay organized 
 
 | HomePage | AddTask |
 | --- | --- |
-| ![alt text](<.github/Captura de Tela 2025-03-10 às 15.59.52-portrait.png>) | ![alt text](<.github/Captura de Tela 2025-03-10 às 15.59.08-portrait.png>) |
+| ![alt text](.github/Homepage.png) | ![alt text](.github/AddTask.png) |
 
 ## Running Requiriments
 
